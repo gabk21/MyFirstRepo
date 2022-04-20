@@ -2,4 +2,4 @@
 
 This is my first project in Github
 
-Contact Rojen
+Contact some author
