@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAyIXVCjjdpSYib/todFCZpjTRf4chAS1ntmyNpS7/CRf6zHJH8MXextVUB3C7FNNGhO4Yy761QnJa2XkgvYfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabriel.kho\\source\\repos\\MyFirstRepo\\MyFirstRepo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabriel.kho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
